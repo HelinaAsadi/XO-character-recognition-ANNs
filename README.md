@@ -1,2 +1,2 @@
-# XO-character-recognition-Hebb
-XO character recognition Hebb
+# XO-character-recognition
+XO character recognition 
